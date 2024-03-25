@@ -35,10 +35,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp N1        &kp N2        &kp N3    &kp N4     &kp N5       &kp LBRC      &kp LBKT      &kp LPAR      &kp GRAVE     &kp TILDE     &kp BSPC
-&trans     &kp NUMBER_6  &kp N7        &kp N8    &kp N9     &kp N0       &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT     &kp QMARK     &trans
-&kp LSHFT  &kp SLASH     &kp ASTERISK  &kp PLUS  &kp MINUS  &kp EQUAL    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &bt BT_CLR
-                                       &kp LGUI  &trans     &kp SPACE    &kp RET       &trans        &kp RALT
+&none  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH      &kp DOLLAR    &kp PERCENT    &kp CARET  &kp AMPERSAND  &kp ASTERISK          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RA(N5)
+&none  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5         &kp PLUS   &kp SLASH      &kp PIPE              &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp GRAVE
+&none  &kp NUMBER_6     &kp N7        &kp N8        &kp N9        &kp N0         &kp MINUS  &kp QUESTION   &kp NON_US_BACKSLASH  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp TILDE
+                                      &kp LGUI      &none         &kp SPACE      &kp RET    &none          &kp RALT
             >;
         };
 
@@ -50,10 +50,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &trans           &trans       &trans       &trans    &trans        &kp STAR   &kp LBKT  &kp RBKT  &kp UNDERSCORE  &kp RPAR  &kp BSPC
-&kp LCTRL  &kp EXCLAMATION  &kp PERCENT  &kp AT_SIGN  &kp HASH  &kp DOLLAR    &kp PLUS   &kp LBRC  &kp RBRC  &kp AMPERSAND   &kp BSLH  &kp GRAVE
-&kp LSHFT  &trans           &trans       &trans       &trans    &trans        &kp MINUS  &kp LPAR  &kp RPAR  &kp SLASH       &kp PIPE  &kp TILDE
-                                         &kp LGUI     &trans    &kp SPACE     &kp RET    &trans    &kp RALT
+&none       &none         &none         &none         &none         &none           &none           &none           &none         &none            &none  &none
+&none       &none         &none         &none         &none         &none           &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &none  &none
+&bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &kp K_PREV      &kp PAGE_DOWN   &kp PAGE_UP   &kp K_NEXT       &none  &none
+                                        &kp LGUI      &none         &kp SPACE       &kp RET         &none           &none
             >;
         };
     };
