@@ -38,7 +38,7 @@
 &none  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH      &kp DOLLAR    &kp PERCENT    &kp CARET  &kp AMPERSAND  &kp ASTERISK          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RA(N5)
 &none  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5         &kp PLUS   &kp SLASH      &kp PIPE              &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp GRAVE
 &none  &kp NUMBER_6     &kp N7        &kp N8        &kp N9        &kp N0         &kp MINUS  &kp QUESTION   &kp NON_US_BACKSLASH  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp TILDE
-                                      &kp LGUI      &none         &kp SPACE      &kp RET    &none          &kp RALT
+                                      &kp LGUI      &none         &kp SPACE      &kp RET    &none          &kp RIGHT_SHIFT
             >;
         };
 
