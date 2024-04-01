@@ -1,8 +1,8 @@
 # Corne Wireless Mechanical Keyboard configuration
 
-## Config v1.0
+## Config v1.1
 
-![Keymaps](./keymaps.png)
+![Keymaps](./assets/my_keymap.png)
 
 ---
 
