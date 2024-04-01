@@ -1,8 +1,14 @@
 # Corne Wireless Mechanical Keyboard configuration
 
-## Config v1.2
+## Config v1.3
 
-![Keymaps](./assets/keymaps_v_1_3.png)
+### Layers
+
+![Layer 0](./assets/layout_0_v_1_3.png)
+
+![Layer 1](./assets/layout_1_v_1_3.png)
+
+![Layer 2](./assets/layout_2_v_1_3.png)
 
 ---
 
